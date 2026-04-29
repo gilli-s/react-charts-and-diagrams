@@ -1,0 +1,152 @@
+{
+  "leftSideData": {
+    "leftSideFirstDiagramData": {
+      "title": "План год",
+      "fullValue": "111 104",
+      "partValue": "25 553,92",
+      "percentage": 23
+    },
+    "leftSideSecondDiagramData": {
+      "title": "План 1 кв.",
+      "fullValue": "25 874",
+      "partValue": "21 475,42",
+      "percentage": 83
+    }
+  },
+
+  "chartData": {
+    "series": [
+      {
+        "name": "ПЛАН",
+        "color": "#b0b0b0",
+        "isDashing": true,
+        "chartPoints": [
+          { "xAxis": "01.01.2026", "yAxis": 385 },
+          { "xAxis": "02.01.2026", "yAxis": 383 },
+          { "xAxis": "03.01.2026", "yAxis": 382 },
+          { "xAxis": "04.01.2026", "yAxis": 381 },
+          { "xAxis": "05.01.2026", "yAxis": 380 },
+          { "xAxis": "06.01.2026", "yAxis": 379 },
+          { "xAxis": "07.01.2026", "yAxis": 378 },
+          { "xAxis": "08.01.2026", "yAxis": 377 },
+          { "xAxis": "09.01.2026", "yAxis": 376 },
+          { "xAxis": "10.01.2026", "yAxis": 375 },
+          { "xAxis": "11.01.2026", "yAxis": 374 },
+          { "xAxis": "12.01.2026", "yAxis": 373 },
+          { "xAxis": "13.01.2026", "yAxis": 372 },
+          { "xAxis": "14.01.2026", "yAxis": 371 },
+          { "xAxis": "15.01.2026", "yAxis": 370 },
+          { "xAxis": "16.01.2026", "yAxis": 369 },
+          { "xAxis": "17.01.2026", "yAxis": 368 },
+          { "xAxis": "18.01.2026", "yAxis": 367 },
+          { "xAxis": "19.01.2026", "yAxis": 366 },
+          { "xAxis": "20.01.2026", "yAxis": 365 },
+          { "xAxis": "21.01.2026", "yAxis": 364 },
+          { "xAxis": "22.01.2026", "yAxis": 363 },
+          { "xAxis": "23.01.2026", "yAxis": 362 },
+          { "xAxis": "24.01.2026", "yAxis": 361 },
+          { "xAxis": "25.01.2026", "yAxis": 360 },
+          { "xAxis": "26.01.2026", "yAxis": 359 },
+          { "xAxis": "27.01.2026", "yAxis": 358 },
+          { "xAxis": "28.01.2026", "yAxis": 357 },
+          { "xAxis": "29.01.2026", "yAxis": 356 },
+          { "xAxis": "30.01.2026", "yAxis": 355 },
+          { "xAxis": "31.01.2026", "yAxis": 354 }
+        ]
+      },
+      {
+        "name": "Факт предыдущего года",
+        "color": "#888888",
+        "isDashing": true,
+        "chartPoints": [
+          { "xAxis": "01.01.2026", "yAxis": 340 },
+          { "xAxis": "02.01.2026", "yAxis": 338 },
+          { "xAxis": "03.01.2026", "yAxis": 337 },
+          { "xAxis": "04.01.2026", "yAxis": 339 },
+          { "xAxis": "05.01.2026", "yAxis": 336 },
+          { "xAxis": "06.01.2026", "yAxis": 335 },
+          { "xAxis": "07.01.2026", "yAxis": 334 },
+          { "xAxis": "08.01.2026", "yAxis": 332 },
+          { "xAxis": "09.01.2026", "yAxis": 331 },
+          { "xAxis": "10.01.2026", "yAxis": 330 },
+          { "xAxis": "11.01.2026", "yAxis": 329 },
+          { "xAxis": "12.01.2026", "yAxis": 327 },
+          { "xAxis": "13.01.2026", "yAxis": 326 },
+          { "xAxis": "14.01.2026", "yAxis": 325 },
+          { "xAxis": "15.01.2026", "yAxis": 324 },
+          { "xAxis": "16.01.2026", "yAxis": 323 },
+          { "xAxis": "17.01.2026", "yAxis": 321 },
+          { "xAxis": "18.01.2026", "yAxis": 320 },
+          { "xAxis": "19.01.2026", "yAxis": 318 },
+          { "xAxis": "20.01.2026", "yAxis": 317 },
+          { "xAxis": "21.01.2026", "yAxis": 315 },
+          { "xAxis": "22.01.2026", "yAxis": 314 },
+          { "xAxis": "23.01.2026", "yAxis": 312 },
+          { "xAxis": "24.01.2026", "yAxis": 311 },
+          { "xAxis": "25.01.2026", "yAxis": 310 },
+          { "xAxis": "26.01.2026", "yAxis": 308 },
+          { "xAxis": "27.01.2026", "yAxis": null },
+          { "xAxis": "28.01.2026", "yAxis": null },
+          { "xAxis": "29.01.2026", "yAxis": null },
+          { "xAxis": "30.01.2026", "yAxis": null },
+          { "xAxis": "31.01.2026", "yAxis": null }
+        ]
+      },
+      {
+        "name": "ФАКТ",
+        "color": "#e74c3c",
+        "isDashing": false,
+        "chartPoints": [
+          { "xAxis": "01.01.2026", "yAxis": 376.6, "label": "376,6 (+20)" },
+          { "xAxis": "02.01.2026", "yAxis": 375.8 },
+          { "xAxis": "03.01.2026", "yAxis": 374.1 },
+          { "xAxis": "04.01.2026", "yAxis": 373.5 },
+          { "xAxis": "05.01.2026", "yAxis": 372.0 },
+          { "xAxis": "06.01.2026", "yAxis": 371.4 },
+          { "xAxis": "07.01.2026", "yAxis": 370.2 },
+          { "xAxis": "08.01.2026", "yAxis": 369.8 },
+          { "xAxis": "09.01.2026", "yAxis": 368.3 },
+          { "xAxis": "10.01.2026", "yAxis": 367.2 },
+          { "xAxis": "11.01.2026", "yAxis": 366.0 },
+          { "xAxis": "12.01.2026", "yAxis": 365.5 },
+          { "xAxis": "13.01.2026", "yAxis": 364.1 },
+          { "xAxis": "14.01.2026", "yAxis": 363.7 },
+          { "xAxis": "15.01.2026", "yAxis": 362.4 },
+          { "xAxis": "16.01.2026", "yAxis": 361.0, "label": "361,0 (-10)" },
+          { "xAxis": "17.01.2026", "yAxis": 360.3 },
+          { "xAxis": "18.01.2026", "yAxis": 359.6 },
+          { "xAxis": "19.01.2026", "yAxis": 358.2 },
+          { "xAxis": "20.01.2026", "yAxis": 357.5 },
+          { "xAxis": "21.01.2026", "yAxis": null },
+          { "xAxis": "22.01.2026", "yAxis": null },
+          { "xAxis": "23.01.2026", "yAxis": null },
+          { "xAxis": "24.01.2026", "yAxis": null },
+          { "xAxis": "25.01.2026", "yAxis": null },
+          { "xAxis": "26.01.2026", "yAxis": null },
+          { "xAxis": "27.01.2026", "yAxis": null },
+          { "xAxis": "28.01.2026", "yAxis": null },
+          { "xAxis": "29.01.2026", "yAxis": null },
+          { "xAxis": "30.01.2026", "yAxis": null },
+          { "xAxis": "31.01.2026", "yAxis": null }
+        ]
+      }
+    ]
+  },
+
+  "rightSideData": {
+    "title": "Накопленный",
+    "delta": "+1 971",
+    "rightSideFirstDiagramData": {
+      "title": "с начала года",
+      "fullValue": "23 903",
+      "partValue": "25 874",
+      "percentage": 108.2
+    },
+    "rightSideSecondDiagramData": {
+      "title": "ФАКТ",
+      "fullValue": "25 874",
+      "partValue": "108,2%",
+      "percentage": 108.2
+    }
+  }
+}
