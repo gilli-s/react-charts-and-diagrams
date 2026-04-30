@@ -2,14 +2,14 @@
   "leftSideData": {
     "leftSideFirstDiagramData": {
       "title": "План год",
-      "fullValue": "111 104",
-      "partValue": "25 553,92",
+      "fullValue": "111 10",
+      "partValue": "25 55,92",
       "percentage": 23
     },
     "leftSideSecondDiagramData": {
-      "title": "План 1 кв.",
-      "fullValue": "25 874",
-      "partValue": "21 475,42",
+      "title": "План -.",
+      "fullValue": "25 87",
+      "partValue": "21 47,42",
       "percentage": 83
     }
   },
@@ -57,7 +57,7 @@
       {
         "name": "Факт предыдущего года",
         "color": "#888888",
-        "isDashing": true,
+        "isDashing": false,
         "chartPoints": [
           { "xAxis": "01.01.2026", "yAxis": 340 },
           { "xAxis": "02.01.2026", "yAxis": 338 },
@@ -100,12 +100,12 @@
           { "xAxis": "01.01.2026", "yAxis": 376.6 },
           { "xAxis": "02.01.2026", "yAxis": 375.8 },
           { "xAxis": "03.01.2026", "yAxis": 374.1 },
-          { "xAxis": "04.01.2026", "yAxis": 373.5 },
+          { "xAxis": "04.01.2026", "yAxis": 270.5 },
           { "xAxis": "05.01.2026", "yAxis": 372.0 },
           { "xAxis": "06.01.2026", "yAxis": 371.4 },
           { "xAxis": "07.01.2026", "yAxis": 370.2 },
           { "xAxis": "08.01.2026", "yAxis": 369.8 },
-          { "xAxis": "09.01.2026", "yAxis": 368.3 },
+          { "xAxis": "09.01.2026", "yAxis": 400.3 },
           { "xAxis": "10.01.2026", "yAxis": 367.2 },
           { "xAxis": "11.01.2026", "yAxis": 366.0 },
           { "xAxis": "12.01.2026", "yAxis": 365.5, "label": "376,6 (+20)" },
@@ -115,7 +115,7 @@
           { "xAxis": "16.01.2026", "yAxis": 361.0, "label": "361,0 (-10)" },
           { "xAxis": "17.01.2026", "yAxis": 360.3 },
           { "xAxis": "18.01.2026", "yAxis": 359.6 },
-          { "xAxis": "19.01.2026", "yAxis": 358.2 },
+          { "xAxis": "19.01.2026", "yAxis": 100.2 },
           { "xAxis": "20.01.2026", "yAxis": 357.5 },
           { "xAxis": "21.01.2026", "yAxis": null },
           { "xAxis": "22.01.2026", "yAxis": null },
@@ -134,19 +134,19 @@
   },
 
   "rightSideData": {
-    "title": "Накопленный с начала года в РФ",
-    "delta": "D = +1 971",
+    "title": "Накопленный показатель",
+    "delta": "D = +11",
     "rightSideFirstDiagramData": {
       "title": "",
-      "fullValue": "23 903",
-      "partValue": "25 874",
+      "fullValue": "23 90",
+      "partValue": "25 87",
       "percentage": 108.2
     },
     "rightSideSecondDiagramData": {
       "title": "",
-      "fullValue": "25 874",
-      "partValue": "108,2%",
-      "percentage": 108.2
+      "fullValue": "25 87",
+      "partValue": "12 00",
+      "percentage": 40.2
     }
   }
 }

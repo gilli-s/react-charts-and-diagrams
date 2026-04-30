@@ -27,7 +27,7 @@ const ChartsIndicatorsPage: FC = () => {
 
       {/* ── Blue что-то ── */}
       <div className="bg-[#1a5276] py-2 text-white text-[15px] font-bold items-center text-center">
-        текстовый заголовок
+        Универсальная группа показателей
       </div>
 
       {/** ── Chart ── */}

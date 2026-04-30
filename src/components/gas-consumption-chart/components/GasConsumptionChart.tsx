@@ -56,8 +56,8 @@ export const GasConsumptionChart: FC<GasConsumptionChartProps> = (props) => {
             </span>
           </div>
 
-          <div className="flex flex-row items-end justify-between">
-            <div className="flex flex-col items-center">
+          <div className="flex flex-row grow items-center justify-between">
+            <div className="flex flex-col h-3/5  items-center">
               <ProgressDiagram
                 title={rightSideFirstDiagramData.title}
                 fullValue={rightSideFirstDiagramData.fullValue}
@@ -66,7 +66,7 @@ export const GasConsumptionChart: FC<GasConsumptionChartProps> = (props) => {
               />
               <div className="text-[#1a5276] font-bold">ПЛАН</div>
             </div>
-            <div className="flex flex-col items-center">
+            <div className="flex flex-col h-3/5 items-center">
               <ProgressDiagram
                 title={rightSideSecondDiagramData.title}
                 fullValue={rightSideSecondDiagramData.fullValue}
