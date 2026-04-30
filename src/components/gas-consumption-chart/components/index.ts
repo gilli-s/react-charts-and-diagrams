@@ -1,0 +1,1 @@
+export { GasConsumptionChart } from "./GasConsumptionChart";

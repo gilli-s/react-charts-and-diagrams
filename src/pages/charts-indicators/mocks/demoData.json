@@ -97,7 +97,7 @@
         "color": "#e74c3c",
         "isDashing": false,
         "chartPoints": [
-          { "xAxis": "01.01.2026", "yAxis": 376.6, "label": "376,6 (+20)" },
+          { "xAxis": "01.01.2026", "yAxis": 376.6 },
           { "xAxis": "02.01.2026", "yAxis": 375.8 },
           { "xAxis": "03.01.2026", "yAxis": 374.1 },
           { "xAxis": "04.01.2026", "yAxis": 373.5 },
@@ -108,7 +108,7 @@
           { "xAxis": "09.01.2026", "yAxis": 368.3 },
           { "xAxis": "10.01.2026", "yAxis": 367.2 },
           { "xAxis": "11.01.2026", "yAxis": 366.0 },
-          { "xAxis": "12.01.2026", "yAxis": 365.5 },
+          { "xAxis": "12.01.2026", "yAxis": 365.5, "label": "376,6 (+20)" },
           { "xAxis": "13.01.2026", "yAxis": 364.1 },
           { "xAxis": "14.01.2026", "yAxis": 363.7 },
           { "xAxis": "15.01.2026", "yAxis": 362.4 },
@@ -134,16 +134,16 @@
   },
 
   "rightSideData": {
-    "title": "Накопленный",
-    "delta": "+1 971",
+    "title": "Накопленный с начала года в РФ",
+    "delta": "D = +1 971",
     "rightSideFirstDiagramData": {
-      "title": "с начала года",
+      "title": "",
       "fullValue": "23 903",
       "partValue": "25 874",
       "percentage": 108.2
     },
     "rightSideSecondDiagramData": {
-      "title": "ФАКТ",
+      "title": "",
       "fullValue": "25 874",
       "partValue": "108,2%",
       "percentage": 108.2
