@@ -33,9 +33,15 @@ export interface DiagramData {
   percentage: number;
 }
 
+export type RightSideDiagramData = {
+  factValue: number;
+  percentage: number;
+};
+
 // ── Full card payload (JSON-driven) ──
 
 export interface ChartCardData {
+  title: string;
   leftSideData: {
     leftSideFirstDiagramData: DiagramData;
     leftSideSecondDiagramData: DiagramData;
@@ -43,9 +49,9 @@ export interface ChartCardData {
   chartData: ChartData;
   rightSideData: {
     title: string;
-    delta: string;
-    rightSideFirstDiagramData: DiagramData;
-    rightSideSecondDiagramData: DiagramData;
+    delta: number;
+    planValue: number;
+    factDiagram: RightSideDiagramData;
   };
 }
 

@@ -1,0 +1,425 @@
+{
+  "title": "Газопотребление за март 2025",
+  "leftSideData": {
+    "leftSideFirstDiagramData": {
+      "title": "План год",
+      "fullValue": "25500",
+      "partValue": "14280,30",
+      "percentage": 56
+    },
+    "leftSideSecondDiagramData": {
+      "title": "План -.",
+      "fullValue": "7650",
+      "partValue": "6656,21",
+      "percentage": 87
+    }
+  },
+  "chartData": {
+    "series": [
+      {
+        "name": "ПЛАН",
+        "color": "#b0b0b0",
+        "isDashing": true,
+        "chartPoints": [
+          {
+            "xAxis": "01.03.2025",
+            "yAxis": 335
+          },
+          {
+            "xAxis": "02.03.2025",
+            "yAxis": 334
+          },
+          {
+            "xAxis": "03.03.2025",
+            "yAxis": 333
+          },
+          {
+            "xAxis": "04.03.2025",
+            "yAxis": 332
+          },
+          {
+            "xAxis": "05.03.2025",
+            "yAxis": 331
+          },
+          {
+            "xAxis": "06.03.2025",
+            "yAxis": 330
+          },
+          {
+            "xAxis": "07.03.2025",
+            "yAxis": 329
+          },
+          {
+            "xAxis": "08.03.2025",
+            "yAxis": 328
+          },
+          {
+            "xAxis": "09.03.2025",
+            "yAxis": 327
+          },
+          {
+            "xAxis": "10.03.2025",
+            "yAxis": 326
+          },
+          {
+            "xAxis": "11.03.2025",
+            "yAxis": 325
+          },
+          {
+            "xAxis": "12.03.2025",
+            "yAxis": 324
+          },
+          {
+            "xAxis": "13.03.2025",
+            "yAxis": 323
+          },
+          {
+            "xAxis": "14.03.2025",
+            "yAxis": 322
+          },
+          {
+            "xAxis": "15.03.2025",
+            "yAxis": 321
+          },
+          {
+            "xAxis": "16.03.2025",
+            "yAxis": 320
+          },
+          {
+            "xAxis": "17.03.2025",
+            "yAxis": 319
+          },
+          {
+            "xAxis": "18.03.2025",
+            "yAxis": 318
+          },
+          {
+            "xAxis": "19.03.2025",
+            "yAxis": 317
+          },
+          {
+            "xAxis": "20.03.2025",
+            "yAxis": 316
+          },
+          {
+            "xAxis": "21.03.2025",
+            "yAxis": 315
+          },
+          {
+            "xAxis": "22.03.2025",
+            "yAxis": 314
+          },
+          {
+            "xAxis": "23.03.2025",
+            "yAxis": 313
+          },
+          {
+            "xAxis": "24.03.2025",
+            "yAxis": 312
+          },
+          {
+            "xAxis": "25.03.2025",
+            "yAxis": 311
+          },
+          {
+            "xAxis": "26.03.2025",
+            "yAxis": 310
+          },
+          {
+            "xAxis": "27.03.2025",
+            "yAxis": 309
+          },
+          {
+            "xAxis": "28.03.2025",
+            "yAxis": 308
+          },
+          {
+            "xAxis": "29.03.2025",
+            "yAxis": 307
+          },
+          {
+            "xAxis": "30.03.2025",
+            "yAxis": 306
+          },
+          {
+            "xAxis": "31.03.2025",
+            "yAxis": 305
+          }
+        ]
+      },
+      {
+        "name": "Факт предыдущего года",
+        "color": "#888888",
+        "isDashing": false,
+        "chartPoints": [
+          {
+            "xAxis": "01.03.2025",
+            "yAxis": 266
+          },
+          {
+            "xAxis": "02.03.2025",
+            "yAxis": 265
+          },
+          {
+            "xAxis": "03.03.2025",
+            "yAxis": 264
+          },
+          {
+            "xAxis": "04.03.2025",
+            "yAxis": 263
+          },
+          {
+            "xAxis": "05.03.2025",
+            "yAxis": 262
+          },
+          {
+            "xAxis": "06.03.2025",
+            "yAxis": 261
+          },
+          {
+            "xAxis": "07.03.2025",
+            "yAxis": 260
+          },
+          {
+            "xAxis": "08.03.2025",
+            "yAxis": 259
+          },
+          {
+            "xAxis": "09.03.2025",
+            "yAxis": 258
+          },
+          {
+            "xAxis": "10.03.2025",
+            "yAxis": 257
+          },
+          {
+            "xAxis": "11.03.2025",
+            "yAxis": 256
+          },
+          {
+            "xAxis": "12.03.2025",
+            "yAxis": 255
+          },
+          {
+            "xAxis": "13.03.2025",
+            "yAxis": 254
+          },
+          {
+            "xAxis": "14.03.2025",
+            "yAxis": 253
+          },
+          {
+            "xAxis": "15.03.2025",
+            "yAxis": 252
+          },
+          {
+            "xAxis": "16.03.2025",
+            "yAxis": 251
+          },
+          {
+            "xAxis": "17.03.2025",
+            "yAxis": 250
+          },
+          {
+            "xAxis": "18.03.2025",
+            "yAxis": 249
+          },
+          {
+            "xAxis": "19.03.2025",
+            "yAxis": 248
+          },
+          {
+            "xAxis": "20.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "21.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "22.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "23.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "24.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "25.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "26.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "27.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "28.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "29.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "30.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "31.03.2025",
+            "yAxis": null
+          }
+        ]
+      },
+      {
+        "name": "ФАКТ",
+        "color": "#e74c3c",
+        "isDashing": false,
+        "chartPoints": [
+          {
+            "xAxis": "01.03.2025",
+            "yAxis": 322
+          },
+          {
+            "xAxis": "02.03.2025",
+            "yAxis": 321
+          },
+          {
+            "xAxis": "03.03.2025",
+            "yAxis": 320
+          },
+          {
+            "xAxis": "04.03.2025",
+            "yAxis": 319
+          },
+          {
+            "xAxis": "05.03.2025",
+            "yAxis": 318
+          },
+          {
+            "xAxis": "06.03.2025",
+            "yAxis": 317,
+            "label": "317 (-9)"
+          },
+          {
+            "xAxis": "07.03.2025",
+            "yAxis": 316
+          },
+          {
+            "xAxis": "08.03.2025",
+            "yAxis": 315
+          },
+          {
+            "xAxis": "09.03.2025",
+            "yAxis": 314
+          },
+          {
+            "xAxis": "10.03.2025",
+            "yAxis": 328
+          },
+          {
+            "xAxis": "11.03.2025",
+            "yAxis": 312
+          },
+          {
+            "xAxis": "12.03.2025",
+            "yAxis": 311
+          },
+          {
+            "xAxis": "13.03.2025",
+            "yAxis": 310,
+            "label": "310 (-9)"
+          },
+          {
+            "xAxis": "14.03.2025",
+            "yAxis": 309
+          },
+          {
+            "xAxis": "15.03.2025",
+            "yAxis": 308
+          },
+          {
+            "xAxis": "16.03.2025",
+            "yAxis": 307
+          },
+          {
+            "xAxis": "17.03.2025",
+            "yAxis": 306
+          },
+          {
+            "xAxis": "18.03.2025",
+            "yAxis": 305
+          },
+          {
+            "xAxis": "19.03.2025",
+            "yAxis": 274
+          },
+          {
+            "xAxis": "20.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "21.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "22.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "23.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "24.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "25.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "26.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "27.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "28.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "29.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "30.03.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "31.03.2025",
+            "yAxis": null
+          }
+        ]
+      }
+    ]
+  },
+  "rightSideData": {
+    "title": "Накопленный показатель",
+    "delta": 3,
+    "planValue": 25500,
+    "factDiagram": {
+      "factValue": 24225,
+      "percentage": 95
+    }
+  }
+}

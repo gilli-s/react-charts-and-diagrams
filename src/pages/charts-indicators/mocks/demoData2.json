@@ -1,0 +1,138 @@
+{
+  "title": "Газопотребление за февраль 2026",
+
+  "leftSideData": {
+    "leftSideFirstDiagramData": {
+      "title": "План год",
+      "fullValue": "111 10",
+      "partValue": "48 92,15",
+      "percentage": 44
+    },
+    "leftSideSecondDiagramData": {
+      "title": "План -.",
+      "fullValue": "25 87",
+      "partValue": "18 34,12",
+      "percentage": 71
+    }
+  },
+
+  "chartData": {
+    "series": [
+      {
+        "name": "ПЛАН",
+        "color": "#b0b0b0",
+        "isDashing": true,
+        "chartPoints": [
+          { "xAxis": "01.02.2026", "yAxis": 380 },
+          { "xAxis": "02.02.2026", "yAxis": 379 },
+          { "xAxis": "03.02.2026", "yAxis": 378 },
+          { "xAxis": "04.02.2026", "yAxis": 377 },
+          { "xAxis": "05.02.2026", "yAxis": 376 },
+          { "xAxis": "06.02.2026", "yAxis": 375 },
+          { "xAxis": "07.02.2026", "yAxis": 374 },
+          { "xAxis": "08.02.2026", "yAxis": 373 },
+          { "xAxis": "09.02.2026", "yAxis": 372 },
+          { "xAxis": "10.02.2026", "yAxis": 371 },
+          { "xAxis": "11.02.2026", "yAxis": 370 },
+          { "xAxis": "12.02.2026", "yAxis": 369 },
+          { "xAxis": "13.02.2026", "yAxis": 368 },
+          { "xAxis": "14.02.2026", "yAxis": 367 },
+          { "xAxis": "15.02.2026", "yAxis": 366 },
+          { "xAxis": "16.02.2026", "yAxis": 365 },
+          { "xAxis": "17.02.2026", "yAxis": 364 },
+          { "xAxis": "18.02.2026", "yAxis": 363 },
+          { "xAxis": "19.02.2026", "yAxis": 362 },
+          { "xAxis": "20.02.2026", "yAxis": 361 },
+          { "xAxis": "21.02.2026", "yAxis": 360 },
+          { "xAxis": "22.02.2026", "yAxis": 359 },
+          { "xAxis": "23.02.2026", "yAxis": 358 },
+          { "xAxis": "24.02.2026", "yAxis": 357 },
+          { "xAxis": "25.02.2026", "yAxis": 356 },
+          { "xAxis": "26.02.2026", "yAxis": 355 },
+          { "xAxis": "27.02.2026", "yAxis": 354 },
+          { "xAxis": "28.02.2026", "yAxis": 353 }
+        ]
+      },
+      {
+        "name": "Факт предыдущего года",
+        "color": "#888888",
+        "isDashing": false,
+        "chartPoints": [
+          { "xAxis": "01.02.2026", "yAxis": 335 },
+          { "xAxis": "02.02.2026", "yAxis": 333 },
+          { "xAxis": "03.02.2026", "yAxis": 332 },
+          { "xAxis": "04.02.2026", "yAxis": 330 },
+          { "xAxis": "05.02.2026", "yAxis": 329 },
+          { "xAxis": "06.02.2026", "yAxis": 328 },
+          { "xAxis": "07.02.2026", "yAxis": 326 },
+          { "xAxis": "08.02.2026", "yAxis": 325 },
+          { "xAxis": "09.02.2026", "yAxis": 324 },
+          { "xAxis": "10.02.2026", "yAxis": 322 },
+          { "xAxis": "11.02.2026", "yAxis": 321 },
+          { "xAxis": "12.02.2026", "yAxis": 319 },
+          { "xAxis": "13.02.2026", "yAxis": 318 },
+          { "xAxis": "14.02.2026", "yAxis": 317 },
+          { "xAxis": "15.02.2026", "yAxis": 315 },
+          { "xAxis": "16.02.2026", "yAxis": 314 },
+          { "xAxis": "17.02.2026", "yAxis": 312 },
+          { "xAxis": "18.02.2026", "yAxis": 311 },
+          { "xAxis": "19.02.2026", "yAxis": 310 },
+          { "xAxis": "20.02.2026", "yAxis": 308 },
+          { "xAxis": "21.02.2026", "yAxis": null },
+          { "xAxis": "22.02.2026", "yAxis": null },
+          { "xAxis": "23.02.2026", "yAxis": null },
+          { "xAxis": "24.02.2026", "yAxis": null },
+          { "xAxis": "25.02.2026", "yAxis": null },
+          { "xAxis": "26.02.2026", "yAxis": null },
+          { "xAxis": "27.02.2026", "yAxis": null },
+          { "xAxis": "28.02.2026", "yAxis": null }
+        ]
+      },
+      {
+        "name": "ФАКТ",
+        "color": "#e74c3c",
+        "isDashing": false,
+        "chartPoints": [
+          { "xAxis": "01.02.2026", "yAxis": 372.1 },
+          { "xAxis": "02.02.2026", "yAxis": 371.3 },
+          { "xAxis": "03.02.2026", "yAxis": 369.8 },
+          { "xAxis": "04.02.2026", "yAxis": 368.5 },
+          { "xAxis": "05.02.2026", "yAxis": 380.2, "label": "380,2 (+15)" },
+          { "xAxis": "06.02.2026", "yAxis": 366.4 },
+          { "xAxis": "07.02.2026", "yAxis": 365.7 },
+          { "xAxis": "08.02.2026", "yAxis": 364.2 },
+          { "xAxis": "09.02.2026", "yAxis": 363.8 },
+          { "xAxis": "10.02.2026", "yAxis": 362.1 },
+          { "xAxis": "11.02.2026", "yAxis": 360.5, "label": "360,5 (-8)" },
+          { "xAxis": "12.02.2026", "yAxis": 359.4 },
+          { "xAxis": "13.02.2026", "yAxis": 358.2 },
+          { "xAxis": "14.02.2026", "yAxis": 357.3 },
+          { "xAxis": "15.02.2026", "yAxis": 356.8 },
+          { "xAxis": "16.02.2026", "yAxis": 355.1 },
+          { "xAxis": "17.02.2026", "yAxis": 354.6 },
+          { "xAxis": "18.02.2026", "yAxis": 353.2 },
+          { "xAxis": "19.02.2026", "yAxis": 280.1 },
+          { "xAxis": "20.02.2026", "yAxis": 351.5 },
+          { "xAxis": "21.02.2026", "yAxis": null },
+          { "xAxis": "22.02.2026", "yAxis": null },
+          { "xAxis": "23.02.2026", "yAxis": null },
+          { "xAxis": "24.02.2026", "yAxis": null },
+          { "xAxis": "25.02.2026", "yAxis": null },
+          { "xAxis": "26.02.2026", "yAxis": null },
+          { "xAxis": "27.02.2026", "yAxis": null },
+          { "xAxis": "28.02.2026", "yAxis": null }
+        ]
+      }
+    ]
+  },
+
+  "rightSideData": {
+    "title": "Накопленный показатель",
+    "delta": -5,
+    "planValue": 4780,
+    "factDiagram": {
+      "factValue": 4892,
+      "percentage": 102.3
+    }
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "title": "Газопотребление за июнь 2025",
+  "leftSideData": {
+    "leftSideFirstDiagramData": {
+      "title": "План год",
+      "fullValue": "27000",
+      "partValue": "24840,60",
+      "percentage": 92
+    },
+    "leftSideSecondDiagramData": {
+      "title": "План -.",
+      "fullValue": "8100",
+      "partValue": "7776,42",
+      "percentage": 96
+    }
+  },
+  "chartData": {
+    "series": [
+      {
+        "name": "ПЛАН",
+        "color": "#b0b0b0",
+        "isDashing": true,
+        "chartPoints": [
+          {
+            "xAxis": "01.06.2025",
+            "yAxis": 320
+          },
+          {
+            "xAxis": "02.06.2025",
+            "yAxis": 319
+          },
+          {
+            "xAxis": "03.06.2025",
+            "yAxis": 318
+          },
+          {
+            "xAxis": "04.06.2025",
+            "yAxis": 317
+          },
+          {
+            "xAxis": "05.06.2025",
+            "yAxis": 316
+          },
+          {
+            "xAxis": "06.06.2025",
+            "yAxis": 315
+          },
+          {
+            "xAxis": "07.06.2025",
+            "yAxis": 314
+          },
+          {
+            "xAxis": "08.06.2025",
+            "yAxis": 313
+          },
+          {
+            "xAxis": "09.06.2025",
+            "yAxis": 312
+          },
+          {
+            "xAxis": "10.06.2025",
+            "yAxis": 311
+          },
+          {
+            "xAxis": "11.06.2025",
+            "yAxis": 310
+          },
+          {
+            "xAxis": "12.06.2025",
+            "yAxis": 309
+          },
+          {
+            "xAxis": "13.06.2025",
+            "yAxis": 308
+          },
+          {
+            "xAxis": "14.06.2025",
+            "yAxis": 307
+          },
+          {
+            "xAxis": "15.06.2025",
+            "yAxis": 306
+          },
+          {
+            "xAxis": "16.06.2025",
+            "yAxis": 305
+          },
+          {
+            "xAxis": "17.06.2025",
+            "yAxis": 304
+          },
+          {
+            "xAxis": "18.06.2025",
+            "yAxis": 303
+          },
+          {
+            "xAxis": "19.06.2025",
+            "yAxis": 302
+          },
+          {
+            "xAxis": "20.06.2025",
+            "yAxis": 301
+          },
+          {
+            "xAxis": "21.06.2025",
+            "yAxis": 300
+          },
+          {
+            "xAxis": "22.06.2025",
+            "yAxis": 299
+          },
+          {
+            "xAxis": "23.06.2025",
+            "yAxis": 298
+          },
+          {
+            "xAxis": "24.06.2025",
+            "yAxis": 297
+          },
+          {
+            "xAxis": "25.06.2025",
+            "yAxis": 296
+          },
+          {
+            "xAxis": "26.06.2025",
+            "yAxis": 295
+          },
+          {
+            "xAxis": "27.06.2025",
+            "yAxis": 294
+          },
+          {
+            "xAxis": "28.06.2025",
+            "yAxis": 293
+          },
+          {
+            "xAxis": "29.06.2025",
+            "yAxis": 292
+          },
+          {
+            "xAxis": "30.06.2025",
+            "yAxis": 291
+          },
+          {
+            "xAxis": "31.06.2025",
+            "yAxis": 290
+          }
+        ]
+      },
+      {
+        "name": "Факт предыдущего года",
+        "color": "#888888",
+        "isDashing": false,
+        "chartPoints": [
+          {
+            "xAxis": "01.06.2025",
+            "yAxis": 242
+          },
+          {
+            "xAxis": "02.06.2025",
+            "yAxis": 241
+          },
+          {
+            "xAxis": "03.06.2025",
+            "yAxis": 240
+          },
+          {
+            "xAxis": "04.06.2025",
+            "yAxis": 239
+          },
+          {
+            "xAxis": "05.06.2025",
+            "yAxis": 238
+          },
+          {
+            "xAxis": "06.06.2025",
+            "yAxis": 237
+          },
+          {
+            "xAxis": "07.06.2025",
+            "yAxis": 236
+          },
+          {
+            "xAxis": "08.06.2025",
+            "yAxis": 235
+          },
+          {
+            "xAxis": "09.06.2025",
+            "yAxis": 234
+          },
+          {
+            "xAxis": "10.06.2025",
+            "yAxis": 233
+          },
+          {
+            "xAxis": "11.06.2025",
+            "yAxis": 232
+          },
+          {
+            "xAxis": "12.06.2025",
+            "yAxis": 231
+          },
+          {
+            "xAxis": "13.06.2025",
+            "yAxis": 230
+          },
+          {
+            "xAxis": "14.06.2025",
+            "yAxis": 229
+          },
+          {
+            "xAxis": "15.06.2025",
+            "yAxis": 228
+          },
+          {
+            "xAxis": "16.06.2025",
+            "yAxis": 227
+          },
+          {
+            "xAxis": "17.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "18.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "19.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "20.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "21.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "22.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "23.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "24.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "25.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "26.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "27.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "28.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "29.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "30.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "31.06.2025",
+            "yAxis": null
+          }
+        ]
+      },
+      {
+        "name": "ФАКТ",
+        "color": "#e74c3c",
+        "isDashing": false,
+        "chartPoints": [
+          {
+            "xAxis": "01.06.2025",
+            "yAxis": 304
+          },
+          {
+            "xAxis": "02.06.2025",
+            "yAxis": 303
+          },
+          {
+            "xAxis": "03.06.2025",
+            "yAxis": 302
+          },
+          {
+            "xAxis": "04.06.2025",
+            "yAxis": 301
+          },
+          {
+            "xAxis": "05.06.2025",
+            "yAxis": 300
+          },
+          {
+            "xAxis": "06.06.2025",
+            "yAxis": 299,
+            "label": "299 (+18)"
+          },
+          {
+            "xAxis": "07.06.2025",
+            "yAxis": 298
+          },
+          {
+            "xAxis": "08.06.2025",
+            "yAxis": 297
+          },
+          {
+            "xAxis": "09.06.2025",
+            "yAxis": 296
+          },
+          {
+            "xAxis": "10.06.2025",
+            "yAxis": 310
+          },
+          {
+            "xAxis": "11.06.2025",
+            "yAxis": 294
+          },
+          {
+            "xAxis": "12.06.2025",
+            "yAxis": 293
+          },
+          {
+            "xAxis": "13.06.2025",
+            "yAxis": 292,
+            "label": "292 (+18)"
+          },
+          {
+            "xAxis": "14.06.2025",
+            "yAxis": 291
+          },
+          {
+            "xAxis": "15.06.2025",
+            "yAxis": 290
+          },
+          {
+            "xAxis": "16.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "17.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "18.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "19.06.2025",
+            "yAxis": 256
+          },
+          {
+            "xAxis": "20.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "21.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "22.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "23.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "24.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "25.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "26.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "27.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "28.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "29.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "30.06.2025",
+            "yAxis": null
+          },
+          {
+            "xAxis": "31.06.2025",
+            "yAxis": null
+          }
+        ]
+      }
+    ]
+  },
+  "rightSideData": {
+    "title": "Накопленный показатель",
+    "delta": 9,
+    "planValue": 27000,
+    "factDiagram": {
+      "factValue": 25650,
+      "percentage": 95
+    }
+  }
+}

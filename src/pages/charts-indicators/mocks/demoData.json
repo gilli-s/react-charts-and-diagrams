@@ -1,4 +1,6 @@
 {
+  "title": "Газопотребление за январь 2026",
+
   "leftSideData": {
     "leftSideFirstDiagramData": {
       "title": "План год",
@@ -135,18 +137,11 @@
 
   "rightSideData": {
     "title": "Накопленный показатель",
-    "delta": "D = +11",
-    "rightSideFirstDiagramData": {
-      "title": "",
-      "fullValue": "23 90",
-      "partValue": "25 87",
+    "delta": 11,
+    "planValue": 2390,
+    "factDiagram": {
+      "factValue": 2587,
       "percentage": 108.2
-    },
-    "rightSideSecondDiagramData": {
-      "title": "",
-      "fullValue": "25 87",
-      "partValue": "12 00",
-      "percentage": 40.2
     }
   }
 }
